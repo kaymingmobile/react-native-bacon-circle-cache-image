@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "prop-types": "^15.5.10",
-    "react-native-fast-image": "1.0.0"
+    "react-native-fast-image": "^2.0.0"
   },
   "keywords": [
     "react native cache image placeholder"
